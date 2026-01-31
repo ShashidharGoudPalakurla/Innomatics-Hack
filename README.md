@@ -51,6 +51,7 @@ Pandas
 Power BI / Tableau
 
 Hackathons & case studies
+
 📊 Key Analysis Possibilities
 
 Students and analysts can explore:
@@ -64,6 +65,7 @@ Students and analysts can explore:
 💎 Membership impact on revenue
 
 💰 Revenue distribution across restaurants
+
 🧠 Learning Outcomes
 
 This project helps learners understand:
@@ -77,6 +79,7 @@ ETL concepts and joins
 Building a single source of truth
 
 Real-world analytics workflows
+
 🚀 Use Cases
 
 Data Engineering practice
@@ -98,6 +101,7 @@ Pandas
 SQLite
 
 CSV / JSON / SQL
+
 📜 License
 
 This project is intended for educational and learning purposes.
