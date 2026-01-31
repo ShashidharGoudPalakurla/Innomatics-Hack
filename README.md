@@ -27,6 +27,7 @@ orders → users	user_id	user_id
 orders → restaurants	restaurant_id	restaurant_id
 
 This approach mirrors real-world ETL pipelines used in analytics and BI systems.
+
 📁 Final Output
 
 📄 final_food_delivery_dataset.csv
